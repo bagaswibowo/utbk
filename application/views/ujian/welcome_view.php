@@ -11,6 +11,12 @@
         s.src = 'https://call.chatra.io/chatra.js';
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
+
+	window.ChatraSetup = {
+    buttonPosition: window.innerWidth < 1024? // width threshold
+        'bl': // chat button position on small screens
+        'br'  // chat button position on big screens
+	};
 </script>
 <!-- <script>
 window.ChatraSetup = {
