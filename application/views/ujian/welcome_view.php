@@ -10,8 +10,9 @@
         s.src = 'https://call.chatra.io/chatra.js';
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
-	<button onclick="Chatra('openChat', true)">Silahkan Chat Disini</button>
+	
 </script>
+<button onclick="Chatra('openChat', true)">Silahkan Chat Disini</button>
 <!-- /Chatra {/literal} -->
 <div class="container">
 	<!-- Content Header (Page header) -->
