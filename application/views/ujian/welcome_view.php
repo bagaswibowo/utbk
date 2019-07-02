@@ -13,7 +13,7 @@
     })(document, window, 'Chatra');
 	
 </script>
-<button onclick="Chatra('openChat', true)">Silahkan Chat Disini</button>
+
 <!-- /Chatra {/literal} -->
 </div>
 <div class="container">
