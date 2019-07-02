@@ -141,7 +141,7 @@ $(document).ready(function(){
     <h6 class="card-title">Apabila ada kesalahan dalam aplikasi ataupun kesalahan lainnya silahkan hubungi kontak dibawah:</h6>
      <p>Email: <a href="mailto:admin@tokota.id">admin@tokota.id</a><br>
      SMS/WhatsApp: 082292097600<br>
-     Website: <a href="https://malesaja.com">MalesAja.com</a>
+     Website: <a href="https://smkypppwonomulyo.com">smkypppwonomulyo.com</a>
   </div>
 </div>
 

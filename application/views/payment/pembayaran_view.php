@@ -289,7 +289,7 @@ $(document).ready(function(){
                          
     <tr>
        <td> adnanmaulanae  </td>
-            <td> Adnan Maulana</td>
+            <td>  Maulana</td>
        <td> SMK YPPP WONOMULYO</td>
        <td> SULAWESI BARAT</td>
        <td> Wonomulyo</td>

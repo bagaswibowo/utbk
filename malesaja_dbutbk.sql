@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `malesaja_dbutbk`
+-- Database: `smkypppwonomulyo.com_dbutbk`
 --
 
 -- --------------------------------------------------------
@@ -55,7 +55,7 @@ CREATE TABLE `cbt_konfigurasi` (
 
 INSERT INTO `cbt_konfigurasi` (`konfigurasi_id`, `konfigurasi_kode`, `konfigurasi_isi`, `konfigurasi_keterangan`) VALUES
 (1, 'link_login_operator', 'ya', ''),
-(2, 'cbt_nama', 'MalesAja.com', ''),
+(2, 'cbt_nama', 'smkypppwonomulyo.com', ''),
 (3, 'cbt_keterangan', 'SIMULASI UTBK 2019', '');
 
 -- --------------------------------------------------------

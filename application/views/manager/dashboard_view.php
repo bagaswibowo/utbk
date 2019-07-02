@@ -1,7 +1,7 @@
 <!-- Content Header (Page header) -->
 <section class="content-header">
 	<h1>
-		Computer Based Test - MalesAja.com
+		Computer Based Test - smkypppwonomulyo.com
 	</h1>
 	<ol class="breadcrumb">
 		<li><a href="<?php echo site_url(); ?>/manager"><i class="fa fa-dashboard"></i> Beranda</a></li>

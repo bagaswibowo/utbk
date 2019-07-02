@@ -223,7 +223,7 @@
         <div class="pull-right hidden-xs">
           <b>Versi</b> <?php if(!empty($site_version)){ echo $site_version; } ?>
         </div>
-        <strong>&copy; 2019 <a href="https://malesaja.com">MalesAja.com</a></strong>
+        <strong>&copy; 2019 <a href="https://smkypppwonomulyo.com">smkypppwonomulyo.com</a></strong>
       </footer>
 
     </div><!-- ./wrapper -->

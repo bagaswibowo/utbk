@@ -2,7 +2,7 @@
 <!-- Content Header (Page header) -->
 <section class="content-header">
     <h1>
-        MALESAJA.COM
+        SMK YPPP Wonomulyo
         <small> SIMULASI UJIAN ONLINE 2019</small>
     </h1>
 </section>

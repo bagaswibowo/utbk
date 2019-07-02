@@ -89,7 +89,7 @@
 			?>
         </div>
         <div class="container">
-          <strong>&copy; 2019 <a href="https://malesaja.com">MalesAja.com</a></strong>
+          <strong>&copy; 2019 <a href="https://smkypppwonomulyo.com">smkypppwonomulyo.com</a></strong>
         </div><!-- /.container -->
       </footer>
     </div><!-- ./wrapper -->
