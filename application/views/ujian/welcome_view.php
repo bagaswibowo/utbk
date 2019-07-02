@@ -14,19 +14,12 @@
 
 	
 </script>
-<script>
-window.ChatraSetup = {
-    colors: {
-        buttonText: '#f0f0f0', /* chat button text color */
-        buttonBg: '#043687'    /* chat button background color */
-    }
-};
-</script>
+
 <script>
 window.ChatraSetup = {
     buttonPosition: window.innerWidth < 1024? // width threshold
         'bl': // chat button position on small screens
-        'br'  // chat button position on big screens
+       
 };
 </script>
 <!--/Chatra {/literal} -->
