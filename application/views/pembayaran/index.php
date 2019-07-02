@@ -102,7 +102,7 @@ $(document).ready(function(){
     
             <div style="margin: 5px auto">
 <h5 class="card-title">Total : Rp.20.000</h5>
-            <h6>Upload Bukti Pembayaran ke<br><a href="mailto:admin@tokota.id">email kami></a></h6>
+            <h6>Upload Bukti Pembayaran ke<br><a href="mailto:bagaswibowo@smkypppwonomulyo.com">email kami></a></h6>
             </div>
             
             
@@ -127,7 +127,7 @@ $(document).ready(function(){
   </div>
   <div class="card-body">
     <h6>Berikut adalah yang harus kamu lakukan setelah pembayaran</h6>
-    <ul>1. Melakukan konfirmasi pembayaran melalui email ke <a href="mailto:admin@tokota.id">admin@tokota.id</a></ul>
+    <ul>1. Melakukan konfirmasi pembayaran melalui email ke <a href="mailto:bagaswibowo@smkypppwonomulyo.com">bagaswibowo@smkypppwonomulyo.com</a></ul>
     <ul>2. Menunggu akun aktif 1x24 Jam</ul>
     <ul>3. Apabila ada kendala, silahkan hubungi admin via wa 082292097600</ul>
     <ul>4. Setelah akun aktif silahkan login untuk memeriksa akun</ul>
@@ -139,7 +139,7 @@ $(document).ready(function(){
   </div>
   <div class="card-body">
     <h6 class="card-title">Apabila ada kesalahan dalam aplikasi ataupun kesalahan lainnya silahkan hubungi kontak dibawah:</h6>
-     <p>Email: <a href="mailto:admin@tokota.id">admin@tokota.id</a><br>
+     <p>Email: <a href="mailto:bagaswibowo@smkypppwonomulyo.com">bagaswibowo@smkypppwonomulyo.com</a><br>
      SMS/WhatsApp: 082292097600<br>
      Website: <a href="https://smkypppwonomulyo.com">smkypppwonomulyo.com</a>
   </div>

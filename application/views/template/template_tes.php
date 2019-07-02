@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>TOKOTA.ID</title>
+    <title>SMK YPPP Wonomulyo</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content='width=device-width, initial-scale=0.9, minimum-scale=0.1, maximum-scale=10, user-scalable=yes' name='viewport'>
     <!-- Bootstrap 3.3.4 -->
@@ -96,7 +96,7 @@
         <nav class="navbar navbar-static-top">
           <div class="container">
             <div class="navbar-header">
-              <a href="<?php echo base_url(); ?>" class="navbar-brand">TOKOTA.ID</a>
+              <a href="<?php echo base_url(); ?>" class="navbar-brand">SMK YPPP Wonomulyo</a>
             </div>
 
             <div class="navbar-custom-menu">

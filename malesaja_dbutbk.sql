@@ -263,7 +263,7 @@ CREATE TABLE `cbt_user` (
 --
 
 INSERT INTO `cbt_user` (`user_id`, `user_grup_id`, `user_name`, `user_password`, `user_email`, `user_asal_sekolah`, `user_provinsi`, `user_kota`, `user_jurusan`, `user_instagram`, `user_whatsapp`, `user_regdate`, `user_ip`, `user_namalengkap`, `user_birthdate`, `user_birthplace`, `user_level`) VALUES
-(7, 6, 'adnan', 'adnan', 'admin@tokota.id', 'SMK YPPP WONOMULYO', 'SULAWESI BARAT', 'WONOMULYO', 'TKJ', 'adnanmaulana.e', '082292097600', '2019-05-14 08:54:58', NULL, 'Adnan Maulana', NULL, NULL, 1);
+(7, 6, 'adnan', 'adnan', 'bagaswibowo@smkypppwonomulyo.com', 'SMK YPPP WONOMULYO', 'SULAWESI BARAT', 'WONOMULYO', 'TKJ', 'adnanmaulana.e', '082292097600', '2019-05-14 08:54:58', NULL, 'Adnan Maulana', NULL, NULL, 1);
 
 -- --------------------------------------------------------
 
