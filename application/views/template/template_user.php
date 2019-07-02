@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6199021558958084",
+          enable_page_level_ads: true
+     });
+</script>
     <meta charset="UTF-8">
-    <title><?php if(!empty($site_name)){ echo $site_name; } ?> | Simulasi UTBK 2019</title>
+    <title><?php if(!empty($site_name)){ echo $site_name; } ?> | Tryout UTBK 2019</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content='width=device-width, initial-scale=1, maximum-scale=10, user-scalable=yes' name='viewport'>
     <!-- Bootstrap 3.3.4 -->
@@ -47,7 +54,7 @@
         <nav class="navbar navbar-static-top">
           <div class="container">
             <div class="navbar-header">
-              <a href="<?php echo base_url(); ?>" class="navbar-brand"> <b>TOKOTA.ID</b></a>
+              <a href="<?php echo base_url(); ?>" class="navbar-brand"> <b>UTBK 2019</b></a>
             </div>
             <div class="navbar-custom-menu">
               <ul class="nav navbar-nav">

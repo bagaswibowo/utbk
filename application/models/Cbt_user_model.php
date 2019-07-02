@@ -28,14 +28,14 @@ class Cbt_user_model extends CI_Model{
     }
 	
 	function get_by_kolom($kolom, $isi){
-        $this->db->select('user_id,user_grup_id,user_name,user_password,user_email,user_namalengkap,user_regdate,user_asal_sekolah,user_provinsi,user_kota,user_jurusan,user_instagram,user_whatsapp')
+        $this->db->select('user_id,user_grup_id,user_name,user_password,user_email,user_firstname,user_regdate,user_asal_sekolah,user_provinsi,user_kota,user_jurusan,user_instagram,user_whatsapp')
                  ->where($kolom, $isi)
                  ->from($this->table);
         return $this->db->get();
     }
 	
 	function get_by_kolom_limit($kolom, $isi, $limit){
-        $this->db->select('user_id,user_grup_id,user_name,user_password,user_email,user_namalengkap,user_regdate,user_asal_sekolah,user_provinsi,user_kota,user_jurusan,user_instagram,user_whatsapp')
+        $this->db->select('user_id,user_grup_id,user_name,user_password,user_email,user_firstname,user_regdate,user_asal_sekolah,user_provinsi,user_kota,user_jurusan,user_instagram,user_whatsapp')
                  ->where($kolom, $isi)
                  ->from($this->table)
 				 ->limit($limit);

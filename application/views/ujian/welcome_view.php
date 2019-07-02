@@ -2,8 +2,8 @@
 	<!-- Content Header (Page header) -->
     <section class="content-header">
     	<h1>
-    		TOKOTA.ID
-            <small> Ujian Online Berbasis Komputer</small>
+    		SAMBUSA.ID
+            <small> Ujian Tulis Berbasis Komputer</small>
         </h1>
         <ol class="breadcrumb">
         	<li><a href="#"><i class="fa fa-dashboard"></i> Beranda</a></li>

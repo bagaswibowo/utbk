@@ -53,7 +53,7 @@ class Peserta_daftar extends Member_Controller {
         	$data['user_name'] = $this->input->post('tambah-username', true);
             $data['user_password'] = $this->input->post('tambah-password', true);
             $data['user_email'] = $this->input->post('tambah-email', true);
-			$data['user_namalengkap'] = $this->input->post('tambah-nama', true);
+			$data['user_firstname'] = $this->input->post('tambah-nama', true);
 			// mulai dari sini //
 			$data['user_asal_sekolah'] = $this->input->post('tambah-asal-sekolah', true);
 			$data['user_provinsi'] = $this->input->post('tambah-provinsi', true);
@@ -95,7 +95,7 @@ class Peserta_daftar extends Member_Controller {
 				$data['id'] = $query->user_id;
 				$data['username'] = $query->user_name;
 				$data['password'] = $query->user_password;
-				$data['nama'] = $query->user_namalengkap;
+				$data['nama'] = $query->user_firstname;
 				$data['email'] = $query->user_email;
 				//mulai//
 				$data['asal_sekolah'] = $query->user_asal_sekolah;
@@ -164,7 +164,7 @@ class Peserta_daftar extends Member_Controller {
 
             }else if($pilihan=='simpan'){//simpan
                 $data['user_password'] = $this->input->post('edit-password', true);
-                $data['user_namalengkap'] = $this->input->post('edit-nama', true);
+                $data['user_firstname'] = $this->input->post('edit-nama', true);
 				$data['user_email'] = $this->input->post('edit-email', true);
 				$data['user_asal_sekolah'] = $this->input->post('edit-asal-sekolah', true);
 				$data['user_provinsi'] = $this->input->post('edit-provinsi', true);
@@ -206,10 +206,10 @@ class Peserta_daftar extends Member_Controller {
 		$rows = $this->get_rows();
 
 		// run query to get user listing
-		$query = $this->cbt_user_model->get_datatable($start, $rows, 'user_namalengkap', $search, $group);
+		$query = $this->cbt_user_model->get_datatable($start, $rows, 'user_firstname', $search, $group);
 		$iFilteredTotal = $query->num_rows();
 		
-		$iTotal= $this->cbt_user_model->get_datatable_count('user_namalengkap', $search, $group)->row()->hasil;
+		$iTotal= $this->cbt_user_model->get_datatable_count('user_firstname', $search, $group)->row()->hasil;
 	    
 		$output = array(
 			"sEcho" => intval($_GET['sEcho']),
@@ -226,7 +226,7 @@ class Peserta_daftar extends Member_Controller {
             
 			$record[] = ++$i;
             $record[] = $temp->user_name;
-            $record[] = $temp->user_namalengkap;
+            $record[] = $temp->user_firstname;
 
             $query_group = $this->cbt_user_grup_model->get_by_kolom_limit('grup_id', $temp->user_grup_id, 1)->row();
 

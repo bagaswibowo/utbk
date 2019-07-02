@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="localhost/assets/master.css">
+    <link rel="stylesheet" type="text/css" href="https://sambusa.id/assets/master.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 </head>
 <body>
@@ -14,10 +14,10 @@
 
 <!-- navbar -->
 	<nav class="navbar navbar-expand-lg navbar-light text-light justify-content-between" style="background-color:#00a65a">
-  <a class="navbar-brand text-white" href="http://localhost">SIMULASI UTBK 2019</a>
+  <a class="navbar-brand text-white" href="https://sambusa.id">SIMULASI UTBK 2019</a>
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link text-white hover" href="http://localhost/"><i class="fas fa-sign-in-alt" style="margin-right:10px;"></i>Login</a>
+        <a class="nav-link text-white hover" href="https://sambusa.id/"><i class="fas fa-sign-in-alt" style="margin-right:10px;"></i>Login</a>
       </li>
     </ul>
 </nav>
@@ -28,7 +28,7 @@
     <div class="card-body">
         
                 <h4> Info Pendaftaran Premium User</h4>
-    <form action="http://localhost/index.php/core_sign/daftar" method="post" id="form">
+    <form action="https://sambusa.id/index.php/core_sign/daftar" method="post" id="form">
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputEmail4">Username (Tanpa Spasi) </label>
@@ -171,7 +171,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-     <!--<script src="localhost/assets/main_js.js"></script>-->
+     <!--<script src="https://sambusa.id/assets/main_js.js"></script>-->
    
 </body>
 </html>

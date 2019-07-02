@@ -3,7 +3,7 @@
 <section class="content-header">
     <h1>
         Selamat Datang
-        <small> di hamalan login administrator CBT UTBK 2019 MalesAja.com</small>
+        <small> di hamalan login administrator CBT UTBK 2019 </small>
     </h1>
 </section>
 
