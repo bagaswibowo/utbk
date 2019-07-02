@@ -86,7 +86,7 @@ $(document).ready(function(){
   <div class="card-body text-center">
       <p><strong>Pembayaran ke:</strong></p>
       <div class="card bg-light text-dark">
-      <strong>a.n. Adnan Maulana
+      <strong>a.n. bagas wibowo
       </strong><h6>OVO<br>082292097600</h6>
       <h6>Bank Mandiri<br>1700002232100</h6>
       </div>
