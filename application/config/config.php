@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $config['upload_path'] = 'uploads';
-$config['site_name'] = 'https://smkypppwonomulyo/utbk';
+$config['site_name'] = 'http://utbk.smkypppwonomulyo.com/';
 $config['site_version'] = '2019.05.12';
 
 /*
@@ -31,7 +31,7 @@ $config['site_version'] = '2019.05.12';
 // $config['base_url'] = "http://".$_SERVER['HTTP_HOST'].str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
 $root=(isset($_SERVER['HTTPS']) ? "https://" : "http://").$_SERVER['HTTP_HOST'];
 $root.= str_replace(basename($_SERVER['SCRIPT_NAME']), '', $_SERVER['SCRIPT_NAME']);
-$config['base_url'] = 'https://smkypppwonomulyo.com/utbk';
+$config['base_url'] = 'http://utbk.smkypppwonomulyo.com/';
 
 /*
 |--------------------------------------------------------------------------
