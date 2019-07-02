@@ -12,14 +12,14 @@
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
 </script>
-<script>
+<!-- <script>
 window.ChatraSetup = {
-    text: {
+    colors: {
         buttonText: '#f0f0f0', /* chat button text color */
         buttonBg: '#565656'    /* chat button background color */
     }
 };
-</script>
+</script> -->
 <!-- /Chatra {/literal} -->
 </div>
 
