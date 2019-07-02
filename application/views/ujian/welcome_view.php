@@ -12,21 +12,17 @@
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
 
-	window.ChatraSetup = {
-    buttonPosition: window.innerWidth < 1024? // width threshold
-        'bl': // chat button position on small screens
-        
-	};
+	
 </script>
-<!-- <script>
+<script>
 window.ChatraSetup = {
     colors: {
         buttonText: '#f0f0f0', /* chat button text color */
-        buttonBg: '#565656'    /* chat button background color */
+        buttonBg: '#043687'    /* chat button background color */
     }
 };
 </script> -->
-<!-- /Chatra {/literal} -->
+<!-- /Chatra {/literal}
 </div>
 
 
