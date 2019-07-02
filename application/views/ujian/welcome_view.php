@@ -1,4 +1,5 @@
-<!-- Chatra {literal} -->
+<div id="chatra-wrapper">
+	<!-- Chatra {literal} -->
 <script>
     (function(d, w, c) {
         w.ChatraID = 'uWhpd8ukisnbLct7B';
@@ -14,6 +15,7 @@
 </script>
 <button onclick="Chatra('openChat', true)">Silahkan Chat Disini</button>
 <!-- /Chatra {/literal} -->
+</div>
 <div class="container">
 	<!-- Content Header (Page header) -->
     <section class="content-header">
