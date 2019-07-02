@@ -2,7 +2,7 @@
 	<!-- Content Header (Page header) -->
     <section class="content-header">
     	<h1>
-    		SAMBUSA.ID
+    		SMK YPPP Wonomulyo
             <small> Ujian Tulis Berbasis Komputer</small>
         </h1>
         <ol class="breadcrumb">
