@@ -25,7 +25,7 @@
 	<!-- Content Header (Page header) -->
     <section class="content-header">
     	<h1>
-    		SMK YPPP Wonomulyo
+    		SMK YPPP Wonomulyo | UTBK
             <small> Ujian Tulis Berbasis Komputer</small>
         </h1>
         <ol class="breadcrumb">
