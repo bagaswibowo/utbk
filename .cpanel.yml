@@ -2,4 +2,4 @@
 deployment:
 tasks:
 - export DEPLOYPATH=/home/u6767138/public_html/utbk
-- /bin/cp -R utbk $DEPLOYPATH
+- /bin/cp -R application $DEPLOYPATH
