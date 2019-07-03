@@ -12,6 +12,12 @@
         if (d.head) d.head.appendChild(s);
     })(document, window, 'Chatra');
 
+    window.ChatraSetup = {
+    buttonPosition: window.innerWidth < 1024? // width threshold
+        'bl':400, // chat button position on small screens
+        'br'  // chat button position on big screens
+    };
+
 	
 	
 </script>
@@ -25,7 +31,7 @@
 	<!-- Content Header (Page header) -->
     <section class="content-header">
     	<h1>
-    		SMK YPPP Wonomulyo | UTBK
+    		SMK YPPP Wonomulyo 
             <small> Ujian Tulis Berbasis Komputer</small>
         </h1>
         <ol class="breadcrumb">
