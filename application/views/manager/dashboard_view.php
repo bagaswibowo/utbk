@@ -43,7 +43,7 @@
     </div><!-- /.box -->
 	<div class="callout callout-info">
     	<h4>Informasi</h4>
-        <p>Apabila admin/operator mendapatkan bug dalam aplikasi, silahkan kirim detail bug ke <a href="mailto:bagaswibowo@smkypppwonomulyo.com"> bagaswibowo@smkypppwonomulyo.com</a> atau via WhatsApp <a href="https://wa.me/082198159657">082292097600</a></p>
+        <p>Apabila admin/operator mendapatkan bug dalam aplikasi, silahkan kirim detail bug ke <a href="mailto:bagaswibowo@smkypppwonomulyo.com"> bagaswibowo@smkypppwonomulyo.com</a> atau via WhatsApp <a href="https://wa.me/082198159657">082198159657</a></p>
     </div>
     <div class="box">
         <div class="box-header with-border">

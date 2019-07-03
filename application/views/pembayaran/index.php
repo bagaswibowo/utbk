@@ -87,7 +87,7 @@ $(document).ready(function(){
       <p><strong>Pembayaran ke:</strong></p>
       <div class="card bg-light text-dark">
       <strong>a.n. bagas wibowo
-      </strong><h6>OVO<br>082292097600</h6>
+      </strong><h6>OVO<br>082198159657</h6>
       <h6>Bank Mandiri<br>1700002232100</h6>
       </div>
       <br>
@@ -129,7 +129,7 @@ $(document).ready(function(){
     <h6>Berikut adalah yang harus kamu lakukan setelah pembayaran</h6>
     <ul>1. Melakukan konfirmasi pembayaran melalui email ke <a href="mailto:bagaswibowo@smkypppwonomulyo.com">bagaswibowo@smkypppwonomulyo.com</a></ul>
     <ul>2. Menunggu akun aktif 1x24 Jam</ul>
-    <ul>3. Apabila ada kendala, silahkan hubungi admin via wa 082292097600</ul>
+    <ul>3. Apabila ada kendala, silahkan hubungi admin via wa 082198159657</ul>
     <ul>4. Setelah akun aktif silahkan login untuk memeriksa akun</ul>
   </div>
 </div>
@@ -140,7 +140,7 @@ $(document).ready(function(){
   <div class="card-body">
     <h6 class="card-title">Apabila ada kesalahan dalam aplikasi ataupun kesalahan lainnya silahkan hubungi kontak dibawah:</h6>
      <p>Email: <a href="mailto:bagaswibowo@smkypppwonomulyo.com">bagaswibowo@smkypppwonomulyo.com</a><br>
-     SMS/WhatsApp: 082292097600<br>
+     SMS/WhatsApp: 082198159657<br>
      Website: <a href="https://smkypppwonomulyo.com">smkypppwonomulyo.com</a>
   </div>
 </div>
