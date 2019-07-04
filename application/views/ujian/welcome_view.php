@@ -4,10 +4,11 @@
           'bl': // chat button position on small screens
           'br'  // chat button position on big screens
   };
+</script>
 <div id="chatra-wrapper">
   <!-- Chatra {literal} -->
  
-  </script>
+  
   <script>
       (function(d, w, c) {
           w.ChatraID = 'uWhpd8ukisnbLct7B';
