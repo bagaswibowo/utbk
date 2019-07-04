@@ -1,25 +1,26 @@
 <div id="chatra-wrapper">
-	<!-- Chatra {literal} -->
-<script>
-    (function(d, w, c) {
-        w.ChatraID = 'uWhpd8ukisnbLct7B';
-        var s = d.createElement('script');
-        w[c] = w[c] || function() {
-            (w[c].q = w[c].q || []).push(arguments);
-        };
-        s.async = true;
-        s.src = 'https://call.chatra.io/chatra.js';
-        if (d.head) d.head.appendChild(s);
-    })(document, window, 'Chatra');
+  <!-- Chatra {literal} -->
+  <script>
+  window.ChatraSetup = {
+      buttonPosition: window.innerWidth < 1024? // width threshold
+          'bl': // chat button position on small screens
+          'br'  // chat button position on big screens
+  };
+  </script>
+  <script>
+      (function(d, w, c) {
+          w.ChatraID = 'uWhpd8ukisnbLct7B';
+          var s = d.createElement('script');
+          w[c] = w[c] || function() {
+              (w[c].q = w[c].q || []).push(arguments);
+          };
+          s.async = true;
+          s.src = 'https://call.chatra.io/chatra.js';
+          if (d.head) d.head.appendChild(s);
+      })(document, window, 'Chatra');
+  </script>
 
-   
-
-	
-	
-</script>
-
-
-<!--/Chatra {/literal} -->
+  <!--/Chatra {/literal} -->
 </div>
 
 
