@@ -2,10 +2,7 @@
 <div id="chatra-wrapper">
   <!-- Chatra {literal} -->
   <script>
-     window.ChatraSetup = {
-      buttonPosition: window.innerWidth < 1024? // width threshold
-          'bl':400,// chat button position on small screens
-      };
+     
       (function(d, w, c) {
           w.ChatraID = 'uWhpd8ukisnbLct7B';
           var s = d.createElement('script');
