@@ -1,15 +1,11 @@
-<script>
-  window.ChatraSetup = {
-      buttonPosition: window.innerWidth < 1024? // width threshold
-          'bl': // chat button position on small screens
-          'br'  // chat button position on big screens
-  };
-</script>
+
 <div id="chatra-wrapper">
   <!-- Chatra {literal} -->
- 
-  
   <script>
+     window.ChatraSetup = {
+      buttonPosition: window.innerWidth < 1024? // width threshold
+          'bl':// chat button position on small screens
+      };
       (function(d, w, c) {
           w.ChatraID = 'uWhpd8ukisnbLct7B';
           var s = d.createElement('script');
@@ -21,7 +17,6 @@
           if (d.head) d.head.appendChild(s);
       })(document, window, 'Chatra');
   </script>
-
   <!--/Chatra {/literal} -->
 </div>
 
