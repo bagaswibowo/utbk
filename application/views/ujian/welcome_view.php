@@ -4,7 +4,7 @@
   <script>
      window.ChatraSetup = {
       buttonPosition: window.innerWidth < 1024? // width threshold
-          'bl':// chat button position on small screens
+          'bl':400,// chat button position on small screens
       };
       (function(d, w, c) {
           w.ChatraID = 'uWhpd8ukisnbLct7B';
